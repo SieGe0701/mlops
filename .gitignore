@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data
+/data/
+/models/
+
+# MLflow artifacts and experiment tracking
+mlruns/
+mlartifacts/
+
+# VS Code
+.vscode/
